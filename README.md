@@ -16,4 +16,4 @@ With a strong foundation in software development, I specialize in Android app de
 
 I'm always eager to learn and collaborate on exciting projects. Feel free to check out my repositories and connect with me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hongyu%20Li-blue)](www.linkedin.com/in/hongyu-li-2a042231b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hongyu%20Li-blue)](https://www.linkedin.com/in/hongyuhooray)
