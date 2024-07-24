@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hongyu Li, a passionate Computer Science student at The Australian National University (ANU). I completed my Bachelor's degree in Mechanical Engineering with First Class Honours at RMIT University. My final year project, which was based on machine learning, software construction and Python programming, sparked my interest in programming. 
+I'm Hongyu (Henry) Li, a passionate Computer Science student at The Australian National University (ANU). I completed my Bachelor's degree in Mechanical Engineering with First Class Honours at RMIT University. My final year project, which was based on machine learning, software construction and Python programming, sparked my interest in programming. 
 
 With a strong foundation in software development, I specialize in Android app development, and web development. My projects include utilizing Python for data augmentation and audio spectrum visualization, developing a safety-focused dwelling mapping app, and creating a web-based game for feeding a kitten that also provides real-world pet care tips.
 
